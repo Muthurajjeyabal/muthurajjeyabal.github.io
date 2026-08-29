@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.muthurajjeyabal.mupiping",
+    "sha256_cert_fingerprints": [
+      "3A:57:16:06:5A:F3:4F:5F:20:D7:F8:AA:2E:3B:3E:0E:95:DC:1B:CA:40:8C:57:B3:CC:17:7E:A0:FE:69:6B:45"
+    ]
+  }
+}]
